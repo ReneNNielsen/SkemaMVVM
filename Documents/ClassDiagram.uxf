@@ -4,7 +4,7 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>342</x>
+      <x>1467</x>
       <y>1134</y>
       <w>189</w>
       <h>126</h>
@@ -20,18 +20,18 @@
   <element>
     <id>Text</id>
     <coordinates>
-      <x>18</x>
-      <y>0</y>
+      <x>1152</x>
+      <y>1539</y>
       <w>90</w>
       <h>63</h>
     </coordinates>
-    <panel_attributes>Windows</panel_attributes>
+    <panel_attributes>Services</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>45</x>
+      <x>1170</x>
       <y>1134</y>
       <w>189</w>
       <h>90</h>
@@ -46,7 +46,7 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>342</x>
+      <x>1467</x>
       <y>900</y>
       <w>189</w>
       <h>162</h>
@@ -61,7 +61,7 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>63</x>
+      <x>1188</x>
       <y>900</y>
       <w>189</w>
       <h>162</h>
@@ -76,7 +76,7 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>189</x>
+      <x>1314</x>
       <y>603</y>
       <w>189</w>
       <h>216</h>
@@ -96,7 +96,7 @@
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>153</x>
+      <x>1278</x>
       <y>1305</y>
       <w>189</w>
       <h>126</h>
@@ -113,7 +113,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>270</x>
+      <x>1395</x>
       <y>810</y>
       <w>171</w>
       <h>108</h>
@@ -124,7 +124,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>135</x>
+      <x>1260</x>
       <y>810</y>
       <w>162</w>
       <h>108</h>
@@ -135,7 +135,7 @@
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>423</x>
+      <x>1548</x>
       <y>1053</y>
       <w>36</w>
       <h>99</h>
@@ -148,7 +148,7 @@ m2=1</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>126</x>
+      <x>1251</x>
       <y>1053</y>
       <w>27</w>
       <h>99</h>
@@ -161,7 +161,7 @@ m2=*</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>270</x>
+      <x>1395</x>
       <y>1206</y>
       <w>90</w>
       <h>117</h>
@@ -174,7 +174,7 @@ m2=1</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>180</x>
+      <x>1305</x>
       <y>1215</y>
       <w>36</w>
       <h>108</h>
@@ -187,7 +187,7 @@ m2=1</panel_attributes>
   <element>
     <id>Text</id>
     <coordinates>
-      <x>18</x>
+      <x>1143</x>
       <y>594</y>
       <w>90</w>
       <h>63</h>
@@ -198,12 +198,12 @@ m2=1</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>954</x>
-      <y>675</y>
+      <x>2295</x>
+      <y>954</y>
       <w>189</w>
       <h>81</h>
     </coordinates>
-    <panel_attributes>PersonViewModel
+    <panel_attributes>PersonEditViewModel
 --
 
 --</panel_attributes>
@@ -212,8 +212,8 @@ m2=1</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>990</x>
-      <y>1125</y>
+      <x>1908</x>
+      <y>1080</y>
       <w>189</w>
       <h>63</h>
     </coordinates>
@@ -226,12 +226,12 @@ m2=1</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>1062</x>
-      <y>810</y>
+      <x>2403</x>
+      <y>1089</y>
       <w>189</w>
       <h>63</h>
     </coordinates>
-    <panel_attributes>ElevViewModel
+    <panel_attributes>ElevEditViewModel
 --
 
 --</panel_attributes>
@@ -240,12 +240,12 @@ m2=1</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>819</x>
-      <y>810</y>
+      <x>2196</x>
+      <y>1089</y>
       <w>189</w>
       <h>63</h>
     </coordinates>
-    <panel_attributes>UnderviserViewModel
+    <panel_attributes>UnderviserEditViewModel
 --
 
 --</panel_attributes>
@@ -254,8 +254,8 @@ m2=1</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>819</x>
-      <y>954</y>
+      <x>1908</x>
+      <y>936</y>
       <w>189</w>
       <h>63</h>
     </coordinates>
@@ -268,8 +268,8 @@ m2=1</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>1062</x>
-      <y>954</y>
+      <x>1908</x>
+      <y>1008</y>
       <w>189</w>
       <h>63</h>
     </coordinates>
@@ -282,8 +282,8 @@ m2=1</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1035</x>
-      <y>747</y>
+      <x>2376</x>
+      <y>1026</y>
       <w>135</w>
       <h>81</h>
     </coordinates>
@@ -293,18 +293,18 @@ m2=1</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>900</x>
-      <y>747</y>
-      <w>162</w>
+      <x>2277</x>
+      <y>1026</y>
+      <w>126</w>
       <h>81</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-</panel_attributes>
-    <additional_attributes>160.0;10.0;160.0;40.0;10.0;40.0;10.0;70.0</additional_attributes>
+    <additional_attributes>120.0;10.0;120.0;40.0;10.0;40.0;10.0;70.0</additional_attributes>
   </element>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>36</x>
+      <x>1161</x>
       <y>360</y>
       <w>441</w>
       <h>135</h>
@@ -322,7 +322,7 @@ m2=1</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>900</x>
+      <x>2025</x>
       <y>261</y>
       <w>333</w>
       <h>63</h>
@@ -337,10 +337,10 @@ m2=1</panel_attributes>
   <element>
     <id>UMLHierarchy</id>
     <coordinates>
-      <x>756</x>
+      <x>1872</x>
       <y>594</y>
-      <w>594</w>
-      <h>801</h>
+      <w>1422</w>
+      <h>855</h>
     </coordinates>
     <panel_attributes/>
     <additional_attributes/>
@@ -348,7 +348,7 @@ m2=1</panel_attributes>
   <element>
     <id>UMLHierarchy</id>
     <coordinates>
-      <x>18</x>
+      <x>1143</x>
       <y>594</y>
       <w>594</w>
       <h>846</h>
@@ -359,7 +359,7 @@ m2=1</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>450</x>
+      <x>1575</x>
       <y>180</y>
       <w>189</w>
       <h>63</h>
@@ -372,7 +372,7 @@ ICommand
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>828</x>
+      <x>1953</x>
       <y>423</y>
       <w>189</w>
       <h>63</h>
@@ -386,7 +386,7 @@ ICommand
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>378</x>
+      <x>1503</x>
       <y>234</y>
       <w>153</w>
       <h>144</h>
@@ -397,7 +397,7 @@ ICommand
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>936</x>
+      <x>2061</x>
       <y>315</y>
       <w>27</w>
       <h>126</h>
@@ -408,7 +408,7 @@ ICommand
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>666</x>
+      <x>1791</x>
       <y>225</y>
       <w>189</w>
       <h>63</h>
@@ -421,7 +421,7 @@ IDataErrorInfo
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>1026</x>
+      <x>2151</x>
       <y>81</y>
       <w>189</w>
       <h>63</h>
@@ -434,7 +434,7 @@ INotifyPropertyChanged
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>981</x>
+      <x>2106</x>
       <y>135</y>
       <w>153</w>
       <h>144</h>
@@ -445,7 +445,7 @@ INotifyPropertyChanged
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>765</x>
+      <x>1890</x>
       <y>279</y>
       <w>126</w>
       <h>162</h>
@@ -456,18 +456,18 @@ INotifyPropertyChanged
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>954</x>
+      <x>2070</x>
       <y>477</y>
-      <w>27</w>
+      <w>36</w>
       <h>135</h>
     </coordinates>
     <panel_attributes>lt=&lt;&lt;-</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;130.0</additional_attributes>
+    <additional_attributes>20.0;10.0;10.0;130.0</additional_attributes>
   </element>
   <element>
     <id>Text</id>
     <coordinates>
-      <x>756</x>
+      <x>1881</x>
       <y>594</y>
       <w>90</w>
       <h>63</h>
@@ -478,12 +478,572 @@ INotifyPropertyChanged
   <element>
     <id>UMLHierarchy</id>
     <coordinates>
-      <x>18</x>
+      <x>1152</x>
+      <y>1539</y>
+      <w>720</w>
+      <h>954</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLHierarchy</id>
+    <coordinates>
+      <x>1143</x>
       <y>0</y>
       <w>1332</w>
       <h>549</h>
     </coordinates>
     <panel_attributes/>
     <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>1143</x>
+      <y>0</y>
+      <w>90</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>Windows</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLHierarchy</id>
+    <coordinates>
+      <x>2079</x>
+      <y>1539</y>
+      <w>720</w>
+      <h>954</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>0</x>
+      <y>72</y>
+      <w>90</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>Messengers</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLHierarchy</id>
+    <coordinates>
+      <x>0</x>
+      <y>72</y>
+      <w>720</w>
+      <h>918</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>2079</x>
+      <y>1539</y>
+      <w>90</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>Controllers</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Text</id>
+    <coordinates>
+      <x>2889</x>
+      <y>1539</y>
+      <w>90</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>Views</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>2295</x>
+      <y>1647</y>
+      <w>486</w>
+      <h>252</h>
+    </coordinates>
+    <panel_attributes>UnderviserController
+--
+_UnderviserService : ICustomerService_
+--
++ UndervicerController()
++ UndervicerController( customerService : ICustomerService)
++ Start() : void
++ EditUnderviser(id : int, parent : BaseViewModel) : void
++ UnderviserSelectedForEdit(data : UnderviserListItemViewData, parrent : BaseViewModel) : void
+_ViewManagement:_
+- ShowViewCustomerSelection() : void
+- GetCustomerSelectionView( parrent : BaseViewModel) : UnderviserSelectionView
+- GetCustomerEditView( id : int, parent : BaseViewModel) : BaseView
+_DataRetrieval:_
++ GetCustomerSelectionViewData (
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1323</x>
+      <y>1755</y>
+      <w>189</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>SkemaViewModel
+--
+
+--</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>2916</x>
+      <y>1575</y>
+      <w>189</w>
+      <h>135</h>
+    </coordinates>
+    <panel_attributes>ViewWindow
+--
+
+--</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>117</x>
+      <y>468</y>
+      <w>189</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>SkemaViewModel
+--
+
+--</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>2529</x>
+      <y>666</y>
+      <w>333</w>
+      <h>162</h>
+    </coordinates>
+    <panel_attributes>/BaseViewModel/
+--
++ ChildViewModels : List&lt;BaseViewModel&gt;
++ ViewData : BaseViewData
+# Controller : IController
+--
++ CloseViewModel(dialogResult : bool?) : void
++ ActivateViewModel() : void
+--
+ViewModelClosing : ViewModelClosingEventHandler
+ViewModelActivating : ViewModelActivatingEventHandler</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>3195</x>
+      <y>1557</y>
+      <w>378</w>
+      <h>171</h>
+    </coordinates>
+    <panel_attributes>BaseView
+--
+- ViewWindow : ViewWindow
+--
++ ViewClosed() : void
++ ViewsWindow_Closed(sender : object, e : EventArgs) :void</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>3555</x>
+      <y>1404</y>
+      <w>189</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>UserControl
+--
+
+--</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>3267</x>
+      <y>1458</y>
+      <w>423</w>
+      <h>117</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>450.0;10.0;450.0;40.0;10.0;40.0;10.0;110.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>3285</x>
+      <y>1719</y>
+      <w>27</w>
+      <h>126</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;120.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>3168</x>
+      <y>1827</y>
+      <w>189</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>SelectUnderviserView
+--
+
+--</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>3303</x>
+      <y>1341</y>
+      <w>189</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;interface&gt;&gt;
+IDisposable
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>3258</x>
+      <y>1395</y>
+      <w>153</w>
+      <h>180</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;.</panel_attributes>
+    <additional_attributes>150.0;10.0;150.0;90.0;10.0;90.0;10.0;180.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>2916</x>
+      <y>1287</y>
+      <w>324</w>
+      <h>99</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;interface&gt;&gt;
+IView
+--
+DataContext : object
+--
+ViewModelClosingHandler(dialogResult : bool?) :void
+ViewModelActivatingHandler() : void</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>3132</x>
+      <y>1377</y>
+      <w>153</w>
+      <h>198</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;110.0;150.0;110.0;150.0;200.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>3384</x>
+      <y>1827</y>
+      <w>189</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>EditUnderviserView
+--
+
+--</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>3285</x>
+      <y>1719</y>
+      <w>198</w>
+      <h>126</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;50.0;200.0;50.0;200.0;120.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>2349</x>
+      <y>819</y>
+      <w>360</w>
+      <h>153</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>380.0;10.0;380.0;100.0;10.0;100.0;10.0;150.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>2016</x>
+      <y>1278</y>
+      <w>180</w>
+      <h>126</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;interface&gt;&gt;
+IController
+--
+Messegner : Messenger
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>3096</x>
+      <y>954</y>
+      <w>189</w>
+      <h>81</h>
+    </coordinates>
+    <panel_attributes>PersonViewData
+--
+
+--</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>3078</x>
+      <y>1080</y>
+      <w>189</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>UnderviserViewData
+--
+
+--</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>3159</x>
+      <y>1026</y>
+      <w>45</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>30.0;10.0;30.0;40.0;10.0;40.0;10.0;60.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>2682</x>
+      <y>819</y>
+      <w>495</w>
+      <h>153</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;100.0;530.0;100.0;530.0;150.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>2709</x>
+      <y>954</y>
+      <w>189</w>
+      <h>81</h>
+    </coordinates>
+    <panel_attributes>PersonSelectionViewModel
+--
+
+--</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>2817</x>
+      <y>1089</y>
+      <w>189</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>ElevSelectionViewModel
+--
+
+--</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>2610</x>
+      <y>1089</y>
+      <w>189</w>
+      <h>63</h>
+    </coordinates>
+    <panel_attributes>UnderviserSelectionViewModel
+--
+
+--</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>2790</x>
+      <y>1026</y>
+      <w>135</w>
+      <h>81</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;40.0;130.0;40.0;130.0;70.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>2691</x>
+      <y>1026</y>
+      <w>126</w>
+      <h>81</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>120.0;10.0;120.0;40.0;10.0;40.0;10.0;70.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>2682</x>
+      <y>819</y>
+      <w>126</w>
+      <h>153</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;100.0;120.0;100.0;120.0;150.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>2304</x>
+      <y>1278</y>
+      <w>567</w>
+      <h>126</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;interface&gt;&gt;
+IUnderviserController
+--
+DataContext : object
+--
+UnderviserSelectedForEdit(data : UnderviserListItemViewData, parrent : BaseViewModel) : void
+EditUnderviser(Id : int, BaseViewModel parrent) : void
+UpdateUnderviser(data : UnderviserEditViewData) : void</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLHierarchy</id>
+    <coordinates>
+      <x>2889</x>
+      <y>1539</y>
+      <w>720</w>
+      <h>954</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>2187</x>
+      <y>1341</y>
+      <w>135</w>
+      <h>27</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;.</panel_attributes>
+    <additional_attributes>10.0;10.0;130.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLHierarchy</id>
+    <coordinates>
+      <x>1890</x>
+      <y>612</y>
+      <w>1422</w>
+      <h>855</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>2547</x>
+      <y>1395</y>
+      <w>27</w>
+      <h>270</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;280.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>2223</x>
+      <y>1944</y>
+      <w>378</w>
+      <h>171</h>
+    </coordinates>
+    <panel_attributes>BaseController
+--
+
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>2529</x>
+      <y>1890</y>
+      <w>27</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;60.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>2160</x>
+      <y>1395</y>
+      <w>126</w>
+      <h>567</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;310.0;120.0;310.0;120.0;610.0</additional_attributes>
   </element>
 </diagram>

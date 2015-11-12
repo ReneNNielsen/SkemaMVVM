@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-jahallo 
+jahallo Test for me
 
 hva fuck er der med dig
-=======
-jahallo Test for me
->>>>>>> 9b556ad2c08eb9cb759d1d769210ed5a8966cd4e

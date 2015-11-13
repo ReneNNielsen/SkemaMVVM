@@ -1,0 +1,5 @@
+C:\Users\djda9\Dropbox\Programmering\SkemaMVVM\Code\SkemaMVVM\Models\bin\Debug\Models.dll
+C:\Users\djda9\Dropbox\Programmering\SkemaMVVM\Code\SkemaMVVM\Models\bin\Debug\Models.pdb
+C:\Users\djda9\Dropbox\Programmering\SkemaMVVM\Code\SkemaMVVM\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\djda9\Dropbox\Programmering\SkemaMVVM\Code\SkemaMVVM\Models\obj\Debug\Models.dll
+C:\Users\djda9\Dropbox\Programmering\SkemaMVVM\Code\SkemaMVVM\Models\obj\Debug\Models.pdb

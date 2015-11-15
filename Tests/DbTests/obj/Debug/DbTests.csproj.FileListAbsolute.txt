@@ -1,0 +1,15 @@
+C:\Users\djda9\Dropbox\Programmering\SkemaMVVM\Tests\DbTests\obj\Debug\DbTests.csprojResolveAssemblyReference.cache
+C:\Users\djda9\Dropbox\Programmering\SkemaMVVM\Tests\DbTests\bin\Debug\DbTests.dll
+C:\Users\djda9\Dropbox\Programmering\SkemaMVVM\Tests\DbTests\bin\Debug\DbTests.pdb
+C:\Users\djda9\Dropbox\Programmering\SkemaMVVM\Tests\DbTests\bin\Debug\EntityFramework.dll
+C:\Users\djda9\Dropbox\Programmering\SkemaMVVM\Tests\DbTests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\djda9\Dropbox\Programmering\SkemaMVVM\Tests\DbTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\djda9\Dropbox\Programmering\SkemaMVVM\Tests\DbTests\bin\Debug\Services.dll
+C:\Users\djda9\Dropbox\Programmering\SkemaMVVM\Tests\DbTests\bin\Debug\Models.dll
+C:\Users\djda9\Dropbox\Programmering\SkemaMVVM\Tests\DbTests\bin\Debug\Services.pdb
+C:\Users\djda9\Dropbox\Programmering\SkemaMVVM\Tests\DbTests\bin\Debug\EntityFramework.xml
+C:\Users\djda9\Dropbox\Programmering\SkemaMVVM\Tests\DbTests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\djda9\Dropbox\Programmering\SkemaMVVM\Tests\DbTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\djda9\Dropbox\Programmering\SkemaMVVM\Tests\DbTests\bin\Debug\Models.pdb
+C:\Users\djda9\Dropbox\Programmering\SkemaMVVM\Tests\DbTests\obj\Debug\DbTests.dll
+C:\Users\djda9\Dropbox\Programmering\SkemaMVVM\Tests\DbTests\obj\Debug\DbTests.pdb

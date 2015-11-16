@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Controllers
 {
-    class TeacherController_DataRetrieval
+    public partial class TeacherController
     {
     }
 }

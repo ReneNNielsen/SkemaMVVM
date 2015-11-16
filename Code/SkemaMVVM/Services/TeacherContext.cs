@@ -1,6 +1,7 @@
 ﻿using Models;
 using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -21,16 +22,36 @@ namespace Services
             get { return context; }
         }
 
-        public bool AddNewTeacher(string name)
+        public bool AddNewTeacher(Teacher newTeacher)
         {
-            Teacher newTeacher = new Teacher()
+            Teacher insertedTeacher = context.Teachers.Add(newTeacher);
+            context.SaveChanges();
+            if (insertedTeacher.Id > 0)
             {
-                FirstName = name
-            };
+                return true;
+            }
+            return false;
+        }
 
-            context.Teachers.Add(newTeacher);
+        public Teacher GetTeacher(int id)
+        {
+            return context.Teachers.Find(id);
+        }
 
-            return true;
+        public Teacher GetTeacher(string name)
+        {
+            List<Teacher> allTeachers = context.Teachers.ToList();
+            foreach(Teacher teacher in allTeachers)
+            {
+                if (teacher.FirstName == name)
+                    return teacher;
+            }
+            return null;
+        }
+
+        public List<Teacher> GetAllTeachers()
+        {
+            return context.Teachers.ToList();
         }
     }
 }

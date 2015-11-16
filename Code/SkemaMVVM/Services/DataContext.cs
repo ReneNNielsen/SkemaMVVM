@@ -10,8 +10,9 @@ namespace Services
 {
     public class DataContext : DbContext, IDisposable
     {
-        public DataContext() : base("SchoolDB")
+        public DataContext() : base("SchoolTestDb")
         {
+
         }
 
         public DbSet<Class> Classes { get; set; }

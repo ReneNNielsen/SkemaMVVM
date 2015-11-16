@@ -13,3 +13,4 @@ C:\Users\djda9\Dropbox\Programmering\SkemaMVVM\Tests\DbTests\bin\Debug\Microsoft
 C:\Users\djda9\Dropbox\Programmering\SkemaMVVM\Tests\DbTests\bin\Debug\Models.pdb
 C:\Users\djda9\Dropbox\Programmering\SkemaMVVM\Tests\DbTests\obj\Debug\DbTests.dll
 C:\Users\djda9\Dropbox\Programmering\SkemaMVVM\Tests\DbTests\obj\Debug\DbTests.pdb
+C:\Users\djda9\Dropbox\Programmering\SkemaMVVM\Tests\DbTests\bin\Debug\DbTests.dll.config

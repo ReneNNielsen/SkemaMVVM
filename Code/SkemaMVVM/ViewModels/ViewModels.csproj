@@ -40,6 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BaseViewData.cs" />
     <Compile Include="BaseViewModel.cs" />
     <Compile Include="IController.cs" />
     <Compile Include="ITeacherController.cs" />

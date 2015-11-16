@@ -43,7 +43,7 @@ namespace ViewModels
                 if (value != viewData)
                 {
                     viewData = value;
-                    base.RaisePropertyChanged("ViewData");
+                    base.NotifyPropertyChanged("ViewData");
                 }
 
             }
@@ -56,6 +56,37 @@ namespace ViewModels
         {
             get;
             set;
+        }
+
+        public BaseViewModel()
+        {
+
+        }
+
+        public BaseViewModel(IController controller)
+        {
+            Controller = controller;
+        }
+
+        /// <summary>
+        /// Create the View Model with a Controller and a FrameworkElement (View) injected.
+        /// Note that we don't keep a reference to the View - just set its data context and
+        /// subscribe it to our Activating and Closing events...
+        /// Of course, this means there are references - that must be removed when the view closes,
+        /// which is handled in the BaseView
+        /// </summary>
+        /// <param name="controller"></param>
+        /// <param name="view"></param>
+        //public BaseViewModel(IController controller, FrameworkElement view)
+        public BaseViewModel(IController controller, IView view)
+            : this(controller)
+        {
+            if (view != null)
+            {
+                view.DataContext = this;
+                ViewModelClosing += view.ViewModelClosingHandler;
+                ViewModelActivating += view.ViewModelActivatingHandler;
+            }
         }
 
         /// <summary>

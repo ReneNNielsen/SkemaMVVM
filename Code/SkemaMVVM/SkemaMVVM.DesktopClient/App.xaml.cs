@@ -11,7 +11,7 @@ namespace SkemaMVVM.DesktopClient
     {
         private void Application_Startup(object sender, StartupEventArgs e)
         {
-            CustomerController controller = new CustomerController(new CustomerService());
+            TeacherController controller = new TeacherController(new TeacherService());
             controller.Start();
         }
     }

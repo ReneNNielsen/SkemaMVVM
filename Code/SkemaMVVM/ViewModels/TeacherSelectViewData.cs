@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace ViewModels
 {
-    public class BaseViewData : ObservableObject
+    public class TeacherSelectViewData  : PersonSelectViewData
     {
-
+       
     }
 }
